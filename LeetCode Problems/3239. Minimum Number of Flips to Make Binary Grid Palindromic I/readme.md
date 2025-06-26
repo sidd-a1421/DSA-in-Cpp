@@ -51,6 +51,9 @@ All rows are already palindromic.
 ### Constraints:
 
 m == grid.length
+
 n == grid[i].length
+
 1 <= m * n <= 2 * 10^5
+
 0 <= grid[i][j] <= 1
