@@ -33,4 +33,5 @@ The ASCII values of the characters in s are: 'z' = 122, 'a' = 97. So, the score 
 ### Constraints:
 
 2 <= s.length <= 100
+
 s consists only of lowercase English letters.
