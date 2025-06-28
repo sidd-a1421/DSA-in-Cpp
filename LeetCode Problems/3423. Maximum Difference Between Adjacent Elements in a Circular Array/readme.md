@@ -33,4 +33,5 @@ The adjacent elements nums[0] and nums[1] have the maximum absolute difference o
 ### Constraints:
 
 2 <= nums.length <= 100
+
 -100 <= nums[i] <= 100
